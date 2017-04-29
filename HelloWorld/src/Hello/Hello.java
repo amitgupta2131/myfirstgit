@@ -8,6 +8,7 @@ public class Hello {
         System.out.println("New text");
         System.out.println("changes after online changes");
         System.out.println("Today's changes");
+		System.out.println("One more change");
 	}
 
 }
