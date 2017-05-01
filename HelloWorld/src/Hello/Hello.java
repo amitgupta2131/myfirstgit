@@ -9,6 +9,7 @@ public class Hello {
         System.out.println("changes after online changes");
         System.out.println("Today's changes");
         System.out.println("My advanced changes");
+        System.out.println("My offline changes");
 	}
 
 }
